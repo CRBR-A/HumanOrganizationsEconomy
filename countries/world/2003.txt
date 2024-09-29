@@ -1,0 +1,39 @@
+| Economy | World |
+| --- | --- |
+| Economy - overview: | Growth in global output (gross world product, GWP) fell from 4.8% in 2000 to 2.2% in 2001 and 2.7% in 2002. The causes: sluggishness in the US economy (21% of GWP) and in the 15 EU economies (19% of GWP); continued stagnation in the Japanese economy (7.2% of GWP); and spillover effects in the less developed regions of the world. China, the second-largest economy in the world (12% of GWP), proved an exception, continuing its rapid annual growth, officially announced as 8% but estimated by many observers as perhaps two percentage points lower. Russia (2.6% of GWP), with 4% growth, continued to make uneven progress, its GDP per capita still only one-third that of the leading industrial nations. The other 14 successor nations of the USSR and the other old Warsaw Pact nations again experienced widely divergent growth rates; the three Baltic nations continued as strong performers, in the 5% range of growth. The developing nations also varied in their growth results, with many countries facing population increases that erode gains in output. Externally, the nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, funds, and technology. Internally, the central government often finds its control over resources slipping as separatist regional movements - typically based on ethnicity - gain momentum, e.g., in many of the successor states of the former Soviet Union, in the former Yugoslavia, in India, in Indonesia, and in Canada. Externally, the central government is losing decision-making powers to international bodies. In Western Europe, governments face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of pollution, desertification, underemployment, epidemics, and famine. Because of their own internal problems and priorities, the industrialized countries devote insufficient resources to deal effectively with the poorer areas of the world, which, at least from the economic point of view, are becoming further marginalized. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, poses economic risks because of varying levels of income and cultural and political differences among the participating nations. The terrorist attacks on the US on 11 September 2001 accentuate a further growing risk to global prosperity, illustrated, for example, by the reallocation of resources away from investment to anti-terrorist programs. The opening of war in March 2003 between a US-led coalition and Iraq added new uncertainties to global economic prospects. (For specific economic developments in each country of the world in 2002, see the individual country entries.) |
+| GDP: | GWP (gross world product) - purchasing power parity - $49 trillion (2002 est.) |
+| GDP - real growth rate: | 2.7% (2001 est.) |
+| GDP - per capita: | purchasing power parity - $7,900 (2002 est.) |
+| GDP - composition by sector: | agriculture: 4% |
+| GDP - composition by sector: | industry: 32% |
+| GDP - composition by sector: | services: 64% (2002 est.) |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| Household income or consumption by percentage share: | highest 10%: NA% |
+| Inflation rate (consumer prices): | developed countries 1% to 4% typically; developing countries 5% to 60% typically; national inflation rates vary widely in individual cases, from declining prices in Japan to hyperinflation in several Third World countries |
+| Labor force: | NA |
+| Labor force - by occupation: | agriculture NA%, industry NA%, services NA% |
+| Unemployment rate: | 30% combined unemployment and underemployment in many non-industrialized countries; developed countries typically 4%-12% unemployment |
+| Industries: | dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new industrial (and agricultural) technology is complicating already grim environmental problems |
+| Industrial production growth rate: | 3% (2002 est.) |
+| Electricity - production: | 14.85 trillion kWh (2001 est.) |
+| Electricity - production by source: | fossil fuel: NA% |
+| Electricity - production by source: | hydro: NA% |
+| Electricity - production by source: | other: NA% |
+| Electricity - production by source: | nuclear: NA% |
+| Electricity - consumption: | 13.93 trillion kWh (2001 est.) |
+| Oil - production: | 75.46 million bbl/day (2001 est.) |
+| Oil - consumption: | 76.21 million bbl/day (2001 est.) |
+| Oil - proved reserves: | 1.025 trillion bbl (37257) |
+| Natural gas - production: | 2.569 trillion cu m (2001 est.) |
+| Natural gas - consumption: | 2.556 trillion cu m (2001 est.) |
+| Natural gas - exports: | 703.9 billion cu m (2001 est.) |
+| Natural gas - imports: | 697.5 billion cu m (2001 est.) |
+| Natural gas - proved reserves: | 161.2 trillion cu m (37257) |
+| Exports: | $6.6 trillion f.o.b. (2002 est.) |
+| Exports - commodities: | the whole range of industrial and agricultural goods and services |
+| Exports - partners: | US 17.4%, Germany 7.6%, UK 5.4%, France 5.1%, Japan 4.8%, China 4% (2002) |
+| Imports: | $6.6 trillion f.o.b. (2002 est.) |
+| Imports - commodities: | the whole range of industrial and agricultural goods and services |
+| Imports - partners: | US 11.2%, Germany 9.2%, China 7%, Japan 6.8%, France 4.7%, UK 4% (2002) |
+| Debt - external: | $2 trillion for less developed countries (2002 est.) |
+| Economic aid - recipient: | official development assistance (ODA) $50 billion |

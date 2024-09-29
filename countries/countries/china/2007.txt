@@ -1,0 +1,63 @@
+| Economy | China |
+| --- | --- |
+| Economy - overview: | China's economy during the last quarter century has changed from a centrally planned system that was largely closed to international trade to a more market-oriented economy that has a rapidly growing private sector and is a major player in the global economy. Reforms started in the late 1970s with the phasing out of collectivized agriculture, and expanded to include the gradual liberalization of prices, fiscal decentralization, increased autonomy for state enterprises, the foundation of a diversified banking system, the development of stock markets, the rapid growth of the non-state sector, and the opening to foreign trade and investment. China has generally implemented reforms in a gradualist or piecemeal fashion, including the sale of equity in China's largest state banks to foreign investors and refinements in foreign exchange and bond markets in 2005. The restructuring of the economy and resulting efficiency gains have contributed to a more than tenfold increase in GDP since 1978. Measured on a purchasing power parity (PPP) basis, China in 2006 stood as the second-largest economy in the world after the US, although in per capita terms the country is still lower middle-income and 130 million Chinese fall below international poverty lines. Economic development has generally been more rapid in coastal provinces than in the interior, and there are large disparities in per capita income between regions. The government has struggled to: (a) sustain adequate job growth for tens of millions of workers laid off from state-owned enterprises, migrants, and new entrants to the work force; (b) reduce corruption and other economic crimes; and (c) contain environmental damage and social strife related to the economy's rapid transformation. From 100 million to 150 million surplus rural workers are adrift between the villages and the cities, many subsisting through part-time, low-paying jobs. One demographic consequence of the "one child" policy is that China is now one of the most rapidly aging countries in the world. Another long-term threat to growth is the deterioration in the environment - notably air pollution, soil erosion, and the steady fall of the water table, especially in the north. China continues to lose arable land because of erosion and economic development. China has benefited from a huge expansion in computer Internet use, with more than 100 million users at the end of 2005. Foreign investment remains a strong element in China's remarkable expansion in world trade and has been an important factor in the growth of urban jobs. In July 2005, China revalued its currency by 2.1% against the US dollar and moved to an exchange rate system that references a basket of currencies. In 2006 China had the largest current account surplus in the world - nearly $180 billion. More power generating capacity came on line in 2006 as large scale investments were completed. Thirteen years in construction at a cost of $24 billion, the immense Three Gorges Dam across the Yangtze River was essentially completed in 2006 and will revolutionize electrification and flood control in the area. The 11th Five-Year Program (2006-10), approved by the National People's Congress in March 2006, calls for a 20% reduction in energy consumption per unit of GDP by 2010 and an estimated 45% increase in GDP by 2010. The plan states that conserving resources and protecting the environment are basic goals, but it lacks details on the policies and reforms necessary to achieve these goals. |
+| GDP (purchasing power parity): | $10.21 trillion (2006 est.) |
+| GDP (official exchange rate): | $2.527 trillion (2006 est.) |
+| GDP - real growth rate: | 11.1% (official data) (2006 est.) |
+| GDP - per capita (PPP): | $7,800 (2006 est.) |
+| GDP - composition by sector: | agriculture: 11.7% |
+| GDP - composition by sector: | industry: 48.9% |
+| GDP - composition by sector: | services: 39.3% |
+| GDP - composition by sector: | note: industry includes construction (2006 est.) |
+| Labor force: | 795.3 million (2006 est.) |
+| Labor force - by occupation: | agriculture: 45% |
+| Labor force - by occupation: | industry: 24% |
+| Labor force - by occupation: | services: 31% (2005 est.) |
+| Unemployment rate: | 4.2% official registered unemployment in urban areas in 2005; substantial unemployment and underemployment in rural areas (2005) |
+| Population below poverty line: | 10% (2004 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 1.6% |
+| Household income or consumption by percentage share: | highest 10%: 34.9% (2004) |
+| Distribution of family income - Gini index: | 46.9 (2004) |
+| Inflation rate (consumer prices): | 1.7% (2006 est.) |
+| Investment (gross fixed): | 40.9% of GDP (2006 est.) |
+| Budget: | revenues: $482.2 billion |
+| Budget: | expenditures: $515.8 billion (2006 est.) |
+| Public debt: | 22.1% of GDP (2006 est.) |
+| Agriculture - products: | rice, wheat, potatoes, corn, peanuts, tea, millet, barley, apples, cotton, oilseed; pork; fish |
+| Industries: | mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizers; consumer products, including footwear, toys, and electronics; food processing; transportation equipment, including automobiles, rail cars and locomotives, ships, and aircraft; telecommunications equipment, commercial space launch vehicles, satellites |
+| Industrial production growth rate: | 22.9% (2006 est.) |
+| Electricity - production: | 2.372 trillion kWh (2005) |
+| Electricity - production by source: | fossil fuel: 80.2% |
+| Electricity - production by source: | hydro: 18.5% |
+| Electricity - production by source: | nuclear: 1.2% |
+| Electricity - production by source: | other: 0.1% (2001) |
+| Electricity - consumption: | 2.197 trillion kWh (2005) |
+| Electricity - exports: | 11.19 billion kWh (2005) |
+| Electricity - imports: | 5.011 billion kWh (2005) |
+| Oil - production: | 3.631 million bbl/day (2005) |
+| Oil - consumption: | 6.534 million bbl/day (2005) |
+| Oil - exports: | 443,300 bbl/day (2005) |
+| Oil - imports: | 3.181 million bbl/day (2005) |
+| Oil - proved reserves: | 16.3 billion bbl (1 January 2006) |
+| Natural gas - production: | 47.88 billion cu m (2005 est.) |
+| Natural gas - consumption: | 44.93 billion cu m (2005 est.) |
+| Natural gas - exports: | 2.944 billion cu m (2005) |
+| Natural gas - imports: | 0 cu m (2005) |
+| Natural gas - proved reserves: | 1.448 trillion cu m (1 January 2006 est.) |
+| Current account balance: | $249.9 billion (2006 est.) |
+| Exports: | $969.7 billion f.o.b. (2006 est.) |
+| Exports - commodities: | machinery and equipment, plastics, optical and medical equipment, iron and steel |
+| Exports - partners: | US 21%, Hong Kong 16%, Japan 9.5%, South Korea 4.6%, Germany 4.2% (2006) |
+| Imports: | $751.9 billion f.o.b. (2006 est.) |
+| Imports - commodities: | machinery and equipment, oil and mineral fuels, plastics, optical and medical equipment, organic chemicals, iron and steel |
+| Imports - partners: | Japan 14.6%, South Korea 11.3%, Taiwan 10.9%, US 7.5%, Germany 4.8% (2006) |
+| Economic aid - recipient: | $NA (2005) |
+| Reserves of foreign exchange and gold: | $1.073 trillion (2006 est.) |
+| Debt - external: | $315 billion (2006 est.) |
+| Stock of direct foreign investment - at home: | $699.5 billion (2006 est.) |
+| Stock of direct foreign investment - abroad: | $67.4 billion (2006 est.) |
+| Market value of publicly traded shares: | $2.426 trillion (2006) |
+| Currency (code): | yuan (CNY); note - also referred to as the Renminbi (RMB) |
+| Currency code: | CNY |
+| Exchange rates: | yuan per US dollar - 7.97 (2006), 8.1943 (2005), 8.2768 (2004), 8.277 (2003), 8.277 (2002) |
+| Fiscal year: | calendar year |

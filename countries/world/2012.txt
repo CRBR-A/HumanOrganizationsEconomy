@@ -1,0 +1,70 @@
+| Economy | World |
+| --- | --- |
+| Economy - overview: | The international financial crisis of 2008-09 led to the first global recession since 1946 and presented the world economy with a major new challenge: determining what mix of fiscal and monetary policies to follow to restore growth and jobs, while keeping inflation and debt under control. The fiscal stimulus packages put in place in 2009-12 required most countries to run budget deficits. Treasuries issued new public debt - totaling $7.6 trillion since 2008 - to pay for the additional expenditures. To keep interest rates low, many central banks monetized that debt, injecting large sums of money into their economies. When economic activity picks up, central banks will face the difficult task of containing inflation without raising interest rates so high they snuff out further growth. And governments will continue to face the difficult task of spurring current growth and employment without saddling their economies with so much debt that they sacrifice long-term growth and financial stability. |
+| Economy - overview: | In 2012, many countries pursued more austere economic policies, reducing government spending in order to attack their deficit and debt problems directly. The rate of growth of the world economy slipped from 5.1% in 2010, and 3.7% in 2011, to just 3.3% in 2012. The global budget deficit narrowed to roughly $2.7 trillion, or 3.8% of World GDP. Many central banks also tightened monetary policy; growth of the global money supply, narrowly defined, slowed from 9.5% in 2010 and 8.7% in 2011, to 6% in 2012. Fiscal and monetary data for 2012 are currently available for 180 countries. Of the 180 countries, 85 pursued expansionary policies, stepping up government spending and expanding their money supply faster than the world average; 47 followed restrictive policies, cutting government spending and holding money growth to less than 6%; and the remaining 48 followed a mix of contrary fiscal and monetary policies, either reducing government spending while accelerating money growth, or boosting spending while curtailing money growth. |
+| Economy - overview: | These policies significantly affected economic performance. Countries with more expansionary fiscal and monetary policies achieved higher rates of growth, lower unemployment, higher growth of tax revenues, and greater success in curtailing public debt than those countries with more austere policies. In 2012, the 85 countries that followed a pro-growth approach achieved a median GDP growth rate of 4.9%, compared to just 0.8% for the 47 countries with restrictive fiscal and monetary policies, a difference of more than 4 percentage points. Among the 85, China grew 7.8%, Indonesia 6.0%, Mexico 3.8%, Russia 3.6%, Turkey 3.0%, the United States 2.3%, and Canada 1.9%, while among the 47, Brazil grew 1.3%, Germany 0.9%, France 0.1%, Belgium 0%, Netherlands -0.5%, Spain -1.5%, and Italy -2.3%. World unemployment increased to 9.2% in 2012. The median for the 47 countries jumped to 11.5%, while the median for the pro-growth countries held steady at 7.3%. Faster GDP growth translated into increased tax revenues. Revenues for the 85 expansionary countries grew at a median rate of 10.8%, whereas tax revenues fell at a median rate of 6.2% for the 47 countries with austere economic policies. This put increased pressure on many of the 47 to raise public debt. For these countries, the median level of public debt as a share of GDP grew 2.5 percentage points to 57.8%, while the median for the 85 pro-growth countries actually declined marginally. The world recession has suppressed inflation rates - world inflation declined 0.8 percentage points in 2012 to about 4.2%. At the same time, the median inflation rate for the 85 pro-growth countries, at 5.5%, was 2.5 percentage points higher than that for the countries who followed more austere fiscal and monetary policies. The latter countries also improved their current account balances by shedding imports; current account balances deteriorated for most of the countries that pursued pro-growth policies. Slower growth of world income reduced import demand and, especially, crude oil prices. As a result, world trade grew just 1% in 2012, compared with 18% in 2011. |
+| Economy - overview: | The world faces several long-standing challenges. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of underemployment, pollution, waste-disposal, epidemics, water-shortages, famine, over-fishing of oceans, deforestation, desertification, and depletion of non-renewable resources. The nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, services, funds, and technology. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, poses economic risks because the participating nations have varying levels and rates of growth of income, and hence, differing needs for monetary and fiscal policies. Especially in Western Europe, governments face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. Because of their own internal problems and priorities, the industrialized countries devote insufficient resources to deal effectively with the poorer areas of the world, which, at least from an economic point of view, are becoming further marginalized. The terrorist attacks on the US on 11 September 2001 accentuated a growing risk to global prosperity, illustrated, for example, by the reallocation of resources away from investment to anti-terrorist programs. |
+| Economy - overview: | Despite these challenges, the world economy also shows great promise. Technology has made possible further advances in all fields, from agriculture, to medicine, alternative energy, metallurgy, and transportation. Improved global communications have greatly reduced the costs of international trade, helping the world gain from the international division of labor, raise living standards, and reduce income disparities among nations. Much of the resilience of the world economy in the aftermath of the financial crisis resulted from government and central bank leaders around the globe working in concert to stem the financial onslaught, knowing well the lessons of past economic failures. |
+| GDP (purchasing power parity): | $83.23 trillion (2012 est.) |
+| GDP (purchasing power parity): | $80.61 trillion (2011 est.) |
+| GDP (purchasing power parity): | $77.71 trillion (2010 est.) |
+| GDP (purchasing power parity): | note: data are in 2012 US dollars |
+| GDP (official exchange rate): | GWP (gross world product): $71.62 trillion (2012 est.) |
+| GDP - real growth rate: | 3.3% (2012 est.) |
+| GDP - real growth rate: | 3.7% (2011 est.) |
+| GDP - real growth rate: | 5.1% (2010 est.) |
+| GDP - per capita (PPP): | $12,500 (2012 est.) |
+| GDP - per capita (PPP): | $12,200 (2011 est.) |
+| GDP - per capita (PPP): | $11,900 (2010 est.) |
+| GDP - per capita (PPP): | note: data are in 2012 US dollars |
+| GDP - composition by sector: | agriculture: 5.9% |
+| GDP - composition by sector: | industry: 30.5% |
+| GDP - composition by sector: | services: 63.6% (2012 est.) |
+| Labor force: | 3.302 billion (2012 est.) |
+| Labor force - by occupation: | agriculture: 36.4% |
+| Labor force - by occupation: | industry: 22.2% |
+| Labor force - by occupation: | services: 41.4% (2007 est.) |
+| Unemployment rate: | 9.2% (2012 est.) |
+| Unemployment rate: | 8.4% (2011 est.) |
+| Unemployment rate: | note: 30% combined unemployment and underemployment in many non-industrialized countries; developed countries typically 4%-12% unemployment (2007 est.) |
+| Household income or consumption by percentage share: | lowest 10%: 2.7% |
+| Household income or consumption by percentage share: | highest 10%: 27.7% (2007 est.) |
+| Distribution of family income - Gini index: | 39 (2007 est.) |
+| Distribution of family income - Gini index: | 37.2 (1998 est.) |
+| Investment (gross fixed): | 23.9% of GDP (2012 est.) |
+| Investment (gross fixed): | 23.4% of GDP (2011 est.) |
+| Budget: | revenues: $20.67 trillion |
+| Budget: | expenditures: $23.42 trillion (2012 est.) |
+| Taxes and other revenues: | 28.9% of GDP (2012 est.) |
+| Budget surplus (+) or deficit (-): | -3.8% of GDP (2012 est.) |
+| Public debt: | 65.4% of GDP (2012 est.) |
+| Public debt: | 63.8% of GDP (2011 est.) |
+| Inflation rate (consumer prices): | world average 4.2% (2012 est.) |
+| Inflation rate (consumer prices): | developed countries 2.2% (2011 est.) |
+| Inflation rate (consumer prices): | developing countries 5.5% (2012 est.) |
+| Inflation rate (consumer prices): | note: the above estimates are weighted averages; inflation in developed countries is 0% to 4% typically, in developing countries, 5% to 10% typically; national inflation rates vary widely in individual cases; inflation rates have declined for most countries for the last several years, held in check by increasing international competition from several low wage countries, and by soft demand as a result of the world financial crisis (2012 est.) |
+| Stock of narrow money: | $27.02 trillion (31 December 2012 est.) |
+| Stock of narrow money: | $25.49 trillion (31 December 2011 est.) |
+| Stock of broad money: | $84.87 trillion (31 December 2012 est.) |
+| Stock of broad money: | $78.76 trillion (31 December 2011 est.) |
+| Stock of domestic credit: | $106 trillion (31 December 2012 est.) |
+| Stock of domestic credit: | $101.5 trillion (31 December 2011 est.) |
+| Market value of publicly traded shares: | $47.04 trillion (31 December 2011) |
+| Market value of publicly traded shares: | $56.37 trillion (31 December 2010) |
+| Market value of publicly traded shares: | $48.71 trillion (31 December 2009 est.) |
+| Industrial production growth rate: | 4.3% (2011 est.) |
+| Exports: | $18.35 trillion (2012 est.) |
+| Exports: | $18.13 trillion (2011 est.) |
+| Exports - commodities: | the whole range of industrial and agricultural goods and services |
+| Exports - commodities: | top ten - share of world trade: electrical machinery, including computers 14.8%; mineral fuels, including oil, coal, gas, and refined products 14.4%; nuclear reactors, boilers, and parts 14.2%; cars, trucks, and buses 8.9%; scientific and precision instruments 3.5%; plastics 3.4%; iron and steel 2.7%; organic chemicals 2.6%; pharmaceutical products 2.6%; diamonds, pearls, and precious stones 1.9% |
+| Imports: | $18.24 trillion (2012 est.) |
+| Imports: | $18.01 trillion (2011 est.) |
+| Imports - commodities: | the whole range of industrial and agricultural goods and services |
+| Imports - commodities: | top ten - share of world trade: see listing for exports |
+| Debt - external: | $69.01 trillion (31 December 2012 est.) |
+| Debt - external: | $63.6 trillion (31 December 2011 est.) |
+| Debt - external: | note: this figure is the sum total of all countries' external debt, both public and private |
+| Stock of direct foreign investment - at home: | $20.59 trillion (31 December 2012 est.) |
+| Stock of direct foreign investment - at home: | $19.05 trillion (31 December 2011 est.) |
+| Stock of direct foreign investment - abroad: | $22.25 trillion (31 December 2012 est.) |
+| Stock of direct foreign investment - abroad: | $20.63 trillion (31 December 2011 est.) |

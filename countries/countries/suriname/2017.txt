@@ -1,0 +1,81 @@
+| Economy | SURINAME |
+| --- | --- |
+| Economy - overview: | Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. After 99 years of operations, a major US aluminum company recently discontinued its activities in Suriname. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment. |
+| Economy - overview: | Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. High import price pass-through from depreciation and electricity tariff increases caused inflation to increase 55.5% year-over-year in December 2016. |
+| Economy - overview: | Suriname's economic prospects for the medium-term will depend on continued commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. One credit bureau forecasted that the economy would contract 2% in 2017. Rising international oil prices and higher production by Suriname’s oil company, Staatsolie’s, will lift oil exports. Two new offshore oil exploration wells will draw 100 million dollars in foreign direct investment inflows. Higher gold prices and increased production from the Merian gold mine also will lift exports. However, investment overall is slowing and unemployment is rising, reflecting government spending cuts, weak business confidence, and the completion of large mining infrastructure projects. Fiscal problems, such as a failure to secure sufficient external financing, could result in additional pressure on the exchange rate and inflation. |
+| GDP (purchasing power parity): | $7.885 billion (2016 est.) |
+| GDP (purchasing power parity): | $8.699 billion (2015 est.) |
+| GDP (purchasing power parity): | $8.845 billion (2014 est.) |
+| GDP (purchasing power parity): | note: data are in 2016 dollars |
+| GDP (official exchange rate): | $3.625 billion (2016 est.) |
+| GDP - real growth rate: | -10.5% (2016 est.) |
+| GDP - real growth rate: | -2.7% (2015 est.) |
+| GDP - real growth rate: | 0.4% (2014 est.) |
+| GDP - per capita (PPP): | $14,000 (2016 est.) |
+| GDP - per capita (PPP): | $15,800 (2015 est.) |
+| GDP - per capita (PPP): | $16,400 (2014 est.) |
+| GDP - per capita (PPP): | note: data are in 2016 dollars |
+| Gross national saving: | 57.1% of GDP (2016 est.) |
+| Gross national saving: | 51.6% of GDP (2015 est.) |
+| Gross national saving: | 65.2% of GDP (2014 est.) |
+| GDP - composition, by end use: | household consumption: 32.7% |
+| GDP - composition, by end use: | government consumption: 17% |
+| GDP - composition, by end use: | investment in fixed capital: 64.3% |
+| GDP - composition, by end use: | investment in inventories: 26.5% |
+| GDP - composition, by end use: | exports of goods and services: 45.2% |
+| GDP - composition, by end use: | imports of goods and services: -59.2% (2016 est.) |
+| GDP - composition, by sector of origin: | agriculture: 11.8% |
+| GDP - composition, by sector of origin: | industry: 30.7% |
+| GDP - composition, by sector of origin: | services: 57.5% (2016 est.) |
+| Agriculture - products: | rice, bananas, palm kernels, coconuts, plantains, peanuts; beef, chickens; shrimp; forest products |
+| Industries: | bauxite and gold mining, alumina production; oil, lumbering, food processing, fishing |
+| Industrial production growth rate: | -8.3% (2016 est.) |
+| Labor force: | 144,000 (2014 est.) |
+| Labor force - by occupation: | agriculture: 11.2% |
+| Labor force - by occupation: | industry: 19.5% |
+| Labor force - by occupation: | services: 69.3% (2010) |
+| Unemployment rate: | 11% (2016 est.) |
+| Unemployment rate: | 8.5% (2013 est.) |
+| Population below poverty line: | 70% (2002 est.) |
+| Household income or consumption by percentage share: | lowest 10%: NA% |
+| Household income or consumption by percentage share: | highest 10%: NA% |
+| Budget: | revenues: $545.8 million |
+| Budget: | expenditures: $834.8 million (2016 est.) |
+| Taxes and other revenues: | 15.3% of GDP (2016 est.) |
+| Budget surplus (+) or deficit (-): | -8.1% of GDP (2016 est.) |
+| Public debt: | 64.6% of GDP (2016 est.) |
+| Public debt: | 45.7% of GDP (2015 est.) |
+| Fiscal year: | calendar year |
+| Inflation rate (consumer prices): | 55.5% (2016 est.) |
+| Inflation rate (consumer prices): | 6.9% (2015 est.) |
+| Central bank discount rate: | 10% (2013) |
+| Central bank discount rate: | 9% (2012) |
+| Commercial bank prime lending rate: | 13.5% (31 December 2016 est.) |
+| Commercial bank prime lending rate: | 12.62% (31 December 2015 est.) |
+| Stock of narrow money: | $921.8 million (31 December 2016 est.) |
+| Stock of narrow money: | $1.231 billion (31 December 2015 est.) |
+| Stock of broad money: | $2.182 billion (31 December 2016 est.) |
+| Stock of broad money: | $2.66 billion (31 December 2015 est.) |
+| Stock of domestic credit: | $1.402 billion (31 December 2016 est.) |
+| Stock of domestic credit: | $2.224 billion (31 December 2015 est.) |
+| Market value of publicly traded shares: | $NA |
+| Current account balance: | $-102 million (2016 est.) |
+| Current account balance: | $-798.1 million (2015 est.) |
+| Exports: | $1.449 billion (2016 est.) |
+| Exports: | $1.666 billion (2015 est.) |
+| Exports - commodities: | alumina, gold, crude oil, lumber, shrimp and fish, rice, bananas |
+| Exports - partners: | Switzerland 28.3%, UAE 27.1%, Belgium 9.1%, Guyana 9%, US 4.7%, Trinidad and Tobago 4.5% (2016) |
+| Imports: | $1.197 billion (2016 est.) |
+| Imports: | $1.973 billion (2015 est.) |
+| Imports - commodities: | capital equipment, petroleum, foodstuffs, cotton, consumer goods |
+| Imports - partners: | US 21.2%, Netherlands 10.9%, China 10.5%, Trinidad and Tobago 10.1%, St. Lucia 7% (2016) |
+| Reserves of foreign exchange and gold: | $381.1 million (31 December 2016 est.) |
+| Reserves of foreign exchange and gold: | $330.2 million (31 December 2015 est.) |
+| Debt - external: | $1.625 billion (31 December 2016 est.) |
+| Debt - external: | $1.15 billion (31 December 2015 est.) |
+| Exchange rates: | Surinamese dollars (SRD) per US dollar - |
+| Exchange rates: | 6.229 (2016 est.) |
+| Exchange rates: | 6.229 (2015 est.) |
+| Exchange rates: | 3.4167 (2014 est.) |
+| Exchange rates: | 3.3 (2013 est.) |
+| Exchange rates: | 3.3 (2012 est.) |
